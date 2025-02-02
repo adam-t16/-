@@ -191,6 +191,12 @@ main {
     font-weight: bold;
     color: var(--primary-color);
 }
+.site-description {
+    font-size: 1.1rem;
+    color: #4b5563;
+    margin: 1rem 0 2rem;
+    line-height: 1.8;
+}
 
 /* Surah List */
 .surah-list {
