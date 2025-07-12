@@ -36,7 +36,7 @@ class WhatsAppButton {
     }
 
     openWhatsApp() {
-        window.open('https://wa.me/212625159398', '_blank');
+        window.open('https://wa.me/971582901255', '_blank');
     }
 }
 
